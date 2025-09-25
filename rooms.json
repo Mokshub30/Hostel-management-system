@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Single",
+    "description": "Single bed with attached bathroom",
+    "price": 150000,
+    "image": "uploads/single.jpeg"
+  },
+  {
+    "name": "Double",
+    "description": "Two beds with shared bathroom",
+    "price": 135000,
+    "image": "uploads/double.jpeg"
+  },
+  {
+    "name": "Dorm",
+    "description": "4 beds with common bathroom",
+    "price": 100000,
+    "image": "uploads/dorm.jpeg"
+  }
+]
